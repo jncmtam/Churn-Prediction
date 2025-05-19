@@ -125,7 +125,6 @@ churn-prediction
 │
 ├── .gitignore
 ├── churn_analysis.ipynb
-├── prediction_output.csv
 ├── README.md
 └── requirements.txt
 ```
